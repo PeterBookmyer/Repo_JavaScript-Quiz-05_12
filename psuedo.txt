@@ -1,5 +1,26 @@
 Elements:
-1.) Start Button
-2.) Timer
-3.) Question Box
-4.) 
+*Start Button
+    -Instructions / Would you like to play?
+    -Yes/No
+*Name Input
+    -Please Enter Name
+    -logs User name
+    -"Good Luck ____, Game Begins" - 321 countdown clock
+*Question Box
+    -10 questions, randomly selects
+    -corresponding true / false buttons
+    -30 second Timer
+    -wrong answers subtract 5 seconds
+    -logs user score as X out of 10
+*Answers
+    -two buttons - true / false
+*Timer
+    -30 seconds
+    -subtracts 5 seconds each wrong answers
+    -end of 30 seconds, Out Of Time message
+    -end of questions, The End message
+*High Scores 
+    -High score button hides user name and X/10
+    -Shows when you click High Score button
+
+
