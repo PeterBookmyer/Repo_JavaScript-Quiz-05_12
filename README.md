@@ -18,3 +18,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+LIVE LINK - https://peterbookmyer.github.io/Repo_JavaScript-Quiz-05_12/
+REPO LINK - https://github.com/PeterBookmyer/Repo_JavaScript-Quiz-05_12
+
+![alt text](/screenshot.png "Screenshot of Application")
